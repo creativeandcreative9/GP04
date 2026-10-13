@@ -1,0 +1,35 @@
+{
+  "duration_seconds": 60,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "decoded_frames": 1800,
+  "periodic_source_frame_0_equals_60": true,
+  "periodic_cloud_layer": true,
+  "encoded_seam_mean_difference": 1.7006352880658435,
+  "encoded_blurred_seam_mean_difference": 0.510841049382716,
+  "encoded_mean_brightness_jump": 0.3642361111111114,
+  "source_seam_mean_difference": 0.6041769547325103,
+  "source_first_step_mean_difference": 0.6035262345679012,
+  "max_adjacent_mean_difference": 1.5533719135802468,
+  "cloud_independent_mean_change_0_to_15s": 2.6937112991898147,
+  "cloud_motion": "Constant leftward drift, 1800px per 60 seconds; masked behind architectural windows",
+  "camera_zoom_range": [
+    1.05,
+    1.1500000000000001
+  ],
+  "camera_pan_radius_pixels": [
+    40,
+    14
+  ],
+  "all_frames_crop_inside_source": true,
+  "all_three_stations_visible_all_frames": true,
+  "background_sha256": "6faab4f1a79736832e83771c094f1d8ffe3f43e4faca2d3d7fdca88dc41df632",
+  "audio_cycle_seconds": 60,
+  "factory_cycle_seconds": 6,
+  "decoded_process_changes_after_camera_compensation": {
+    "coat": 21.843658088235294,
+    "cut": 24.28339460784314,
+    "press": 30.071017156862744
+  }
+}

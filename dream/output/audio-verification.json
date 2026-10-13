@@ -1,0 +1,249 @@
+{
+  "duration_seconds": 60,
+  "sample_rate": 48000,
+  "channels": 2,
+  "original_silent_mp4_sha256": "706cb018c0cd3c49dcb293db0a341a7bb9f2aa7a3d25e4386ff275d0c82d043c",
+  "video_bitstream_unchanged": true,
+  "settings": {
+    "background_db": -42,
+    "process_db": -28
+  },
+  "pcm": {
+    "peak_dbfs": -24.596234809946637,
+    "rms_dbfs": -40.02069074837787,
+    "dc_offset": [
+      -1.3192347521398652e-10,
+      -1.4589738593672636e-10
+    ],
+    "boundary_sample_step": 0.00015235573416817576,
+    "boundary_local_step_p99_9": 0.0019793470969051586,
+    "clipped_samples": 0
+  },
+  "decoded_aac": {
+    "peak_dbfs": -24.589285981740176,
+    "rms_dbfs": -40.03994496976408,
+    "dc_offset": [
+      9.434148751097382e-08,
+      -3.959575334278043e-09
+    ],
+    "boundary_sample_step": 0.00026732904370874166,
+    "boundary_local_step_p99_9": 0.0019804337061941624,
+    "clipped_samples": 0
+  },
+  "events": [
+    {
+      "stage": "press",
+      "onset_seconds": 1.44,
+      "visual_shape_start_seconds": 1.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 7.4399999999999995,
+      "visual_shape_start_seconds": 7.4399999999999995,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 13.44,
+      "visual_shape_start_seconds": 13.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 19.44,
+      "visual_shape_start_seconds": 19.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 25.44,
+      "visual_shape_start_seconds": 25.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 31.44,
+      "visual_shape_start_seconds": 31.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 37.44,
+      "visual_shape_start_seconds": 37.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 43.44,
+      "visual_shape_start_seconds": 43.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 49.44,
+      "visual_shape_start_seconds": 49.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 55.44,
+      "visual_shape_start_seconds": 55.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 1.62,
+      "visual_shape_start_seconds": 1.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 7.62,
+      "visual_shape_start_seconds": 7.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 13.620000000000001,
+      "visual_shape_start_seconds": 13.620000000000001,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 19.62,
+      "visual_shape_start_seconds": 19.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 25.62,
+      "visual_shape_start_seconds": 25.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 31.62,
+      "visual_shape_start_seconds": 31.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 37.62,
+      "visual_shape_start_seconds": 37.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 43.62,
+      "visual_shape_start_seconds": 43.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 49.62,
+      "visual_shape_start_seconds": 49.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 55.62,
+      "visual_shape_start_seconds": 55.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 1.26,
+      "visual_shape_start_seconds": 1.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 7.26,
+      "visual_shape_start_seconds": 7.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 13.26,
+      "visual_shape_start_seconds": 13.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 19.26,
+      "visual_shape_start_seconds": 19.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 25.26,
+      "visual_shape_start_seconds": 25.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 31.26,
+      "visual_shape_start_seconds": 31.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 37.26,
+      "visual_shape_start_seconds": 37.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 43.26,
+      "visual_shape_start_seconds": 43.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 49.26,
+      "visual_shape_start_seconds": 49.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 55.26,
+      "visual_shape_start_seconds": 55.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    }
+  ],
+  "listening_check": "Not performed: no audio-listening tool in this environment. Objective waveform, codec and timing checks only.",
+  "rights": "Original mathematical synthesis; no third-party recordings or music.",
+  "aac_alignment_offset_samples": 0,
+  "aac_alignment_offset_milliseconds": 0.0
+}

@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+output/*.wav
+output/frame-*.png
+output/audio-meter.txt
+output/dream-cloud-factory.mp4
+output/dream-cloud-factory-silent.mp4
+output/camera-cloud-overview.jpg
+output/motion-proof-source.jpg
+output/motion-check-source.jpg
+output/refinement-comparison.jpg
+assets/drifting-clouds.png
+*.zip

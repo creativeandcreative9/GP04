@@ -1,0 +1,55 @@
+{
+  "measurement_source": "dream-cloud-factory-preview-1080p.mp4",
+  "interval_seconds": 5,
+  "measured_zoom_ratio": 1.0227272727272727,
+  "measured_camera_pan_world_pixels": 16.989898989899,
+  "measured_independent_cloud_world_shift_pixels": -149.32223238329743,
+  "landmarks": [
+    {
+      "source_landmark": [
+        460,
+        520
+      ],
+      "start_pixel": [
+        393,
+        484
+      ],
+      "after_5_seconds": [
+        361.0,
+        485.0
+      ],
+      "correlation": 0.9279433090011843
+    },
+    {
+      "source_landmark": [
+        1460,
+        520
+      ],
+      "start_pixel": [
+        1493,
+        484
+      ],
+      "after_5_seconds": [
+        1486.0,
+        485.0
+      ],
+      "correlation": 0.937738223446977
+    },
+    {
+      "source_landmark": [
+        1030,
+        425
+      ],
+      "start_pixel": [
+        1020,
+        379
+      ],
+      "after_5_seconds": [
+        835.0,
+        378.0
+      ],
+      "correlation": 0.885220538485069
+    }
+  ],
+  "normal_speed_visual_review": "No playback capability in executor. The user approved the completed version; these decoded-frame measurements complement user review."
+}
