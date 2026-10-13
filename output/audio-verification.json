@@ -1,0 +1,123 @@
+{
+  "duration_seconds": 24,
+  "sample_rate": 48000,
+  "channels": 2,
+  "original_silent_mp4_sha256": "4099bebe452067735584410c2ad90ec517ed2558cd0601db6f9bdf1066e33155",
+  "video_bitstream_unchanged": true,
+  "settings": {
+    "background_db": -42,
+    "process_db": -28
+  },
+  "pcm": {
+    "peak_dbfs": -24.545146728575318,
+    "rms_dbfs": -40.01573261348676,
+    "dc_offset": [
+      -1.3192347522618847e-10,
+      -1.4589738593938145e-10
+    ],
+    "boundary_sample_step": 0.00013445095445651332,
+    "boundary_local_step_p99_9": 0.0019718139071641804,
+    "clipped_samples": 0
+  },
+  "decoded_aac": {
+    "peak_dbfs": -24.620161502109106,
+    "rms_dbfs": -40.0340624531586,
+    "dc_offset": [
+      -2.184950602668323e-07,
+      1.3069382021058118e-07
+    ],
+    "boundary_sample_step": 0.00012388383038342,
+    "boundary_local_step_p99_9": 0.001980125904083252,
+    "clipped_samples": 0
+  },
+  "events": [
+    {
+      "stage": "press",
+      "onset_seconds": 1.44,
+      "visual_shape_start_seconds": 1.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 7.4399999999999995,
+      "visual_shape_start_seconds": 7.4399999999999995,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 13.44,
+      "visual_shape_start_seconds": 13.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "press",
+      "onset_seconds": 19.44,
+      "visual_shape_start_seconds": 19.44,
+      "offset_samples": 0,
+      "fundamental_hz": 430
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 1.62,
+      "visual_shape_start_seconds": 1.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 7.62,
+      "visual_shape_start_seconds": 7.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 13.620000000000001,
+      "visual_shape_start_seconds": 13.620000000000001,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "cut",
+      "onset_seconds": 19.62,
+      "visual_shape_start_seconds": 19.62,
+      "offset_samples": 0,
+      "fundamental_hz": 610
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 1.26,
+      "visual_shape_start_seconds": 1.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 7.26,
+      "visual_shape_start_seconds": 7.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 13.26,
+      "visual_shape_start_seconds": 13.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    },
+    {
+      "stage": "coat",
+      "onset_seconds": 19.26,
+      "visual_shape_start_seconds": 19.26,
+      "offset_samples": 0,
+      "fundamental_hz": 790
+    }
+  ],
+  "listening_check": "Not performed: no audio-listening tool in this environment. Objective waveform, codec and timing checks only.",
+  "rights": "Original mathematical synthesis; no third-party recordings or music.",
+  "aac_alignment_offset_samples": 0,
+  "aac_alignment_offset_milliseconds": 0.0
+}

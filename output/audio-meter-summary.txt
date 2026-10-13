@@ -1,0 +1,14 @@
+FFmpeg ebur128 measurement of moon-cookie-factory-sound.mp4
+
+Integrated loudness:
+    I:         -37.6 LUFS
+    Threshold: -47.6 LUFS
+
+  Loudness range:
+    LRA:         3.2 LU
+    Threshold: -57.5 LUFS
+    LRA low:   -39.4 LUFS
+    LRA high:  -36.2 LUFS
+
+  True peak:
+    Peak:      -24.6 dBFS

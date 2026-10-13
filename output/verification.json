@@ -1,0 +1,40 @@
+{
+  "duration_seconds": 24,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 720,
+  "audio_streams": 0,
+  "periodic_frame_0_equals_24": true,
+  "seam_mean_absolute_rgb_difference": [
+    0.0009095293209876543,
+    0.0007195216049382716,
+    0.0005348186728395062
+  ],
+  "codec": "h264",
+  "pixel_format": "yuv420p",
+  "decoded_frame_count": 720,
+  "decoded_process_measurements": {
+    "press": {
+      "before_pixels": 4362,
+      "after_pixels": 5969,
+      "before_width": 69,
+      "after_width": 105
+    },
+    "cut": {
+      "before_pixels": 5966,
+      "after_pixels": 2804,
+      "before_width": 105,
+      "after_width": 88
+    },
+    "coat": {
+      "before_pixels": 2807,
+      "after_pixels": 2763,
+      "before_width": 88,
+      "after_width": 88
+    }
+  },
+  "cream_crop_red_increase": 25.606293706293712,
+  "encoded_seam_mean_absolute_difference_480x270": 0.15915895061728394,
+  "encoded_adjacent_max_mean_absolute_difference_480x270": 0.5087397119341563
+}
